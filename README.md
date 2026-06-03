@@ -1,2 +1,4 @@
-# pdf-parser
-Python PDF parser for extracting text, page count and document metadata.
+Total Pages: 5
+
+Extracted Text:
+This is sample extracted text from a PDF document.
